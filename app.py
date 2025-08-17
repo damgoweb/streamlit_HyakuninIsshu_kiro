@@ -297,6 +297,7 @@ def main():
     # ヘッダー
     st.title("🎋 百人一首ゲーム")
     st.write("日本の古典和歌を楽しく学習しましょう")
+    st.write("Powerd by Kiro")
     
     # データとゲーム管理の初期化
     try:
