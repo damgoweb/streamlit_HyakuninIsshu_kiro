@@ -286,7 +286,7 @@ def render_score():
 def main():
     """メインアプリケーション"""
     st.set_page_config(
-        page_title="百人一首ゲーム",
+        page_title="百人一首ゲーム by Kiro",
         page_icon="🎋",
         layout="wide"
     )
